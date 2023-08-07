@@ -1,1 +1,1 @@
-# municipality
+This repository contains the code for a  municipality website created using HTML, CSS, Bootstrap, and PHP with Laragon. The website serves as an informative platform to showcase the municipality's services and activities
